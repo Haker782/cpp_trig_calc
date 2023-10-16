@@ -1,0 +1,21 @@
+﻿  Source.cpp
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(224,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(231,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(238,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(245,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(252,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(259,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(266,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(275,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(282,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(289,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(296,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(317,1): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(552,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Lenovo\source\repos\Calculator\Source.cpp(538,11): warning C4101: answer: неиспользованная локальная переменная
+  Создание кода
+  1 of 283 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Calculator.vcxproj -> C:\Users\Lenovo\source\repos\Calculator\Release\Calculator.exe
